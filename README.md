@@ -24,6 +24,7 @@ Python dashboard (PyMongo, Dash, MongoDB) for browsing and filtering Austin Anim
 - `ProjectTwoDashboard.ipynb`: the Dash dashboard
 - `aac_shelter_outcomes.csv`: source dataset
 - `Grazioso Salvare Logo.png`: dashboard logo
+- `docs/CS-499_Milestone_Four_Narrative.pdf`: Milestone Four narrative (artifact description, justification, outcome coverage and reflection)
 
 ## Run it
 
